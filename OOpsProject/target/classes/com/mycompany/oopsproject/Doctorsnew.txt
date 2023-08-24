@@ -1,0 +1,50 @@
+Fever
+Rahul Bharadwaj,Fever,9534534534,R@gmail.com,3,
+Fever
+Ravi Shastri,Fever,9823492834,T@gmai.com,6,
+Fever
+Mahendra Rajput,Fever,9823492834,W@gmail.com,8,
+Fever
+Bhilai Singh,Fever,9824492844,F@gmail.com,4,
+Fever
+Rahul Tewatia,Fever,992342312,l@gmail.com,9,
+Cold
+Dr. Darshan kumar,Cold,986563256,ok@gmail.com,8,
+Cold
+Dr. Prashant kumar,Cold,9977659767,abhi@gmail.com,9,
+Cold
+Dr. Michael John,Cold,99996546999,michael@gmail.com,6,
+Cold
+Dr. Krish Prasad,Cold,8888659812,krish@gmail.com,8,
+Cold
+Dr.Niel Dedhia,Cold,99996432599,Neil@gmail.com,0,
+Heart Disease
+Ricky Bharadwaj,Heart Disease,9534534534,R@gmail.com,3,
+Heart Disease
+Ram Shastri,Heart Disease,9823492834,T@gmai.com,6,
+Heart Disease
+Manvendra Rajput,Heart Disease,9823492834,W@gmail.com,8,
+Heart Disease
+Bhim Singh,Heart Disease,9824492844,F@gmail.com,4,
+Heart Disease
+Rishab Tewatia,Heart Disease,992342312,l@gmail.com,9,
+Neurosurgeon
+Dr. Dev kumar,Neurosurgeon,986563256,ok@gmail.com,8,
+Neurosurgeon
+Dr. Prasansha kumar,Neurosurgeon,9977659767,abhi@gmail.com,9,
+Neurosurgeon
+Dr. Mike John,Neurosurgeon,99996546999,michael@gmail.com,6,
+Neurosurgeon
+Dr. Krishna Prasad,Neurosurgeon,8888659812,krish@gmail.com,0,
+Neurosurgeon
+Dr.Niegar Dedhia,Neurosurgeon,89776432578,Nigga@gmail.com,0,
+Dermatologist
+Prithvi Bharadwaj,Dermatologist,9534534534,R@gmail.com,3,
+Dermatologist
+Shubhman Shastri,Dermatologist,9823492834,T@gmai.com,6,
+Dermatologist
+Suresh Rajput,Dermatologist,9823492834,W@gmail.com,8,
+Dermatologist
+Ravi Singh,Dermatologist,9824492844,F@gmail.com,4,
+Dermatologist
+Jeevan Tewatia,Dermatologist,992342312,l@gmail.com,9,

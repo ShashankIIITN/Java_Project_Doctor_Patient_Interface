@@ -1,0 +1,17 @@
+        --------------------------------------------------------------
+-------------- Congratulations ,Your appointment has been booked ---------------
+        --------------------------------------------------------------
+Appointment ID is 1026446918
+Your Doctor name is Ravi Shastri
+Doctoremail is T@gmai.com
+Patient Name is Ken Kaneki
+Patient Email is pj@gmail.com
+Patient Phone is 9999999996
+Your Date_of_booking is 2022-11-29
+Your Time_of_booking is 12:32:12
+Your Doctor fees is 5500
+-------------------- BILL RECEIPT ------------------------------------------------------------------------------
+Total Services And its Cost :
+ GST Amount = 990.0
+Grand Total Bill  Rs. 6490.0
+--------------------------------------------------------
